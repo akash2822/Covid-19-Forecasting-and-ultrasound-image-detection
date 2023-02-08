@@ -1,1 +1,1 @@
-# Covid-19-Forecasting-and-ultrasound-image-detection
+# Covid-19-Forecasting-and-Ultrasound-Image-Detection
